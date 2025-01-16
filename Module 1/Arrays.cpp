@@ -46,7 +46,8 @@ int main() {
    cout << "\nMemory Addresses of myArray4 Elements:" << endl;
    for (int i = 0; i < 5; ++i) {
       cout << "Address of myArray4[" << i << "]: " << &myArray4[i] << endl;
-   }
 
+   }
+cout <<"Hello World"<< endl;
    return 0;
 }
